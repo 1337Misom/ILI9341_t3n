@@ -1,3 +1,5 @@
+This Library was modified to make updating the screen faster.
+
 Overview and Warning: 
 =====
 This Arduino library is for driving ILI9341 displays on Teensy 3.x or 4.x boards from 
